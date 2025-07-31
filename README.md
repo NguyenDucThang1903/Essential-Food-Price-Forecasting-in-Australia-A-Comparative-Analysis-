@@ -59,4 +59,4 @@ This collaborative research initiative was developed under academic supervision 
 
 ## Recognition
 
-The project methodology has been reviewed by faculty members from the Department of Mathematics from Swinburne University of Technology and acknowledged for its innovative approach to market intelligence.
+The project methodology has been reviewed by faculty member Associate Professor Andrey Pototskyy in the Department of Mathematics from Swinburne University of Technology and acknowledged for its innovative approach to market intelligence.
