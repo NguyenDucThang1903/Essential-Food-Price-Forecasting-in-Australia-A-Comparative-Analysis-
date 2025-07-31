@@ -59,8 +59,4 @@ This collaborative research initiative was developed under academic supervision 
 
 ## Recognition
 
-The project methodology has been reviewed by faculty members from the Department of Finance and acknowledged for its innovative approach to market intelligence.
-
----
-
-*This project demonstrates the intersection of data analytics, financial modeling, and strategic business insights—core competencies valued in PwC's
+The project methodology has been reviewed by faculty members from the Department of Mathematics from Swinburne University of Technology and acknowledged for its innovative approach to market intelligence.
